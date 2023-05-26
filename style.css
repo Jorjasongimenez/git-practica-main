@@ -1,4 +1,7 @@
 html {
-  background-color: black;
+  background-color: grey;
   color: #fff;
+}
+p {
+  color: rgb(255, 255, 255);
 }
