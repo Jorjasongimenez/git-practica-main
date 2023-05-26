@@ -1,0 +1,67 @@
+commit 588fefa2b06e286e79711b6cdb5358caf181997a
+Author: Jorge Gimenez <jorjasongimenez@gmail.com>
+Date:   Tue May 16 13:04:31 2023 -0400
+
+    PARRAFO 3
+
+commit 57a7311a7a88fe58494c0e6ab678f5b3562211f9
+Author: Jorge Gimenez <jorjasongimenez@gmail.com>
+Date:   Sat Apr 22 11:12:57 2023 -0400
+
+    CAMBIOS EN HTML
+
+commit eeb8a5d09e60916c09145d6ea0c1dcc5993144c8
+Merge: 18def4a 2147c21
+Author: Jorge Gimenez <jorjasongimenez@gmail.com>
+Date:   Fri Apr 14 03:23:09 2023 -0400
+
+    Merge branch 'js'
+
+commit 18def4ac6776e746ce3060b420c93deac3148131
+Merge: 3c2c744 0007c31
+Author: Jorge Gimenez <jorjasongimenez@gmail.com>
+Date:   Fri Apr 14 03:20:37 2023 -0400
+
+    Merge branch 'css'
+
+commit 3c2c744629370e90c11f6cf32d584e9630c01e66
+Author: Jorge Gimenez <jorjasongimenez@gmail.com>
+Date:   Fri Apr 14 03:12:00 2023 -0400
+
+    referenciando css
+
+commit 41f0479e45c205508b62e4aa1a881a24ce84c9eb
+Author: Jorge Gimenez <jorjasongimenez@gmail.com>
+Date:   Fri Apr 14 03:09:36 2023 -0400
+
+    AGREGANDO Index.html
+
+commit 2147c2133c74288e7011c95c3c90811e0ad8eea3
+Author: Jorge Gimenez <jorjasongimenez@gmail.com>
+Date:   Fri Apr 14 02:58:25 2023 -0400
+
+    Agregando javascript
+
+commit 0007c31403c4ad7c77c2a510b37aaffff59096f9
+Author: Jorge Gimenez <jorjasongimenez@gmail.com>
+Date:   Fri Apr 14 02:51:41 2023 -0400
+
+    Agregando css
+
+commit f7a1ecf72232ed68f670c5ecc2b20cb472772618
+Author: Jorge Gimenez <jorjasongimenez@gmail.com>
+Date:   Fri Apr 14 02:36:04 2023 -0400
+
+    Creando Index.html
+
+commit 8ae9316a6b446e4d9ff7fe0f0a49f3b03a0927a3
+Author: Jorge Gimenez <jorjasongimenez@gmail.com>
+Date:   Fri Apr 14 01:15:10 2023 -0400
+
+    primer cambio
+
+commit 3f551d3607c1db5ecb80baf93a8b3b4652e812e6
+Author: Jorge Gimenez <jorjasongimenez@gmail.com>
+Date:   Fri Apr 14 01:04:58 2023 -0400
+
+    primer commit
